@@ -2,6 +2,7 @@
 def sortColors(nums):
     
     # Do not return anything, modify nums in-place instead.
+    # The algorith used is Dutch national flag algorithm
    
     low=0
     mid=0
