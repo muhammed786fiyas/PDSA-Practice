@@ -14,5 +14,5 @@ def findDuplicate(nums):
     
     return slow
 
-nums=[1,3,3,4,5,2]
+nums=[1,2,3,4,2]
 print(findDuplicate(nums))
