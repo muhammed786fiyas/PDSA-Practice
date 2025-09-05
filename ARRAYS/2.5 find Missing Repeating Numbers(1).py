@@ -68,8 +68,6 @@ def findMissingRepeatingNumbers2(nums):
     return[a,b]
     
    
-
-
 # Example usage:
 nums =  [4,3,6,2,5,5]
 print(findMissingRepeatingNumbers1(nums))
